@@ -2,6 +2,7 @@
 
 This repository is a big container for various types of algorithms. 
 Sadly, it is a little bit poor - it needs **you** to be improved!
+Feel free to contribute!
 
 ### Installation
 
